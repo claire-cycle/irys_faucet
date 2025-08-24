@@ -1,0 +1,9 @@
+{
+  "api_key": "你的yescaptcha api key",
+  "site_key": "0x4AAAAAAA6vnrvBCtS4FAl-",
+  "website_url": "https://irys.xyz/faucet",
+  "address_file": "address.txt",
+  "proxy_file": "proxies.txt",
+  "captcha_wait_time": 5,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
